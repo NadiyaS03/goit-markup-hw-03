@@ -276,8 +276,8 @@ img {
   line-height: 1.2;
   letter-spacing: 0.02em;
   padding-top: 32px;
-  padding-bottom: 8px;
   text-align: center;
+  margin-bottom: 8px;
 }
 .team-profession {
   text-align: center;
@@ -285,6 +285,7 @@ img {
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.32px;
+  padding: 32px 0;
 }
 
 /* =============================== */
@@ -296,7 +297,6 @@ img {
 }
 
 .portfolio-title {
-  margin-bottom: 8px;
   color: #2e2f42;
   text-align: center;
   font-size: 36px;
@@ -304,6 +304,7 @@ img {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+  margin-bottom: 72px;
 }
 
 .portfolio-list {
@@ -322,7 +323,7 @@ img {
   border: 1px solid #e7e9fc;
   border-top: none;
 }
-.app {
+.app-name {
   margin-bottom: 8 px;
   color: #2e2f42;
   font-size: 20px;

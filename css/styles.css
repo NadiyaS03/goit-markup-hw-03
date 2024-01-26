@@ -36,6 +36,7 @@ p {
   max-width: 1158px;
   padding: 0 15px;
   margin: 0 auto;
+  margin-top: 0;
   margin-bottom: 0;
 }
 
@@ -67,9 +68,10 @@ img {
   color: #4d5ae5;
   font-family: Raleway, sans-serif;
   font-size: 18px;
+  font-style: normal;
   font-weight: 700;
   line-height: 1.17;
-  letter-spacing: 0.54px;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
   text-decoration: none;
 }
@@ -230,7 +232,7 @@ img {
 
 .team {
   background: #f4f4fd;
-  padding: 120px 0;
+  padding-top: 120px;
 }
 .team-title {
   color: #2e2f42;
@@ -249,7 +251,6 @@ img {
   padding-bottom: 32px;
   justify-content: center;
   align-items: center;
-  margin-bottom: 120px;
 }
 
 .team-item {
@@ -295,7 +296,7 @@ img {
 }
 
 .portfolio-title {
-  margin-bottom: 72px;
+  margin-bottom: 8px;
   color: #2e2f42;
   text-align: center;
   font-size: 36px;
